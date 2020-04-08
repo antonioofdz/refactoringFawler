@@ -3,5 +3,5 @@ projectKey=antonioofdz_refactoringFawler
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.6674
 dashboardUrl=https://sonarcloud.io/dashboard?id=antonioofdz_refactoringFawler
-ceTaskId=AXFamrFISpwl3IyRAoRZ
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFamrFISpwl3IyRAoRZ
+ceTaskId=AXFanwzqIbth1QGiw8tA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFanwzqIbth1QGiw8tA

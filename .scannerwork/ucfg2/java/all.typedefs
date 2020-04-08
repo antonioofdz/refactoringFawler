@@ -22,11 +22,12 @@ hashCode()java.lang.Object#hashCode()I…
 getTitle())fawler.Movie#getTitle()Ljava/lang/String;.
 getPriceCode()fawler.Movie#getPriceCode()I0
 setPriceCode(I)fawler.Movie#setPriceCode(I)VH
-<init>(Ljava/lang/String;I))fawler.Movie#<init>(Ljava/lang/String;I)Vƒ
+<init>(Ljava/lang/String;I))fawler.Movie#<init>(Ljava/lang/String;I)V®
 fawler.Rentaljava.lang.Object-
 
 getMovie()fawler.Rental#getMovie()LMovie;1
-getDaysRented()fawler.Rental#getDaysRented()Iæ
+getDaysRented()fawler.Rental#getDaysRented()I)
+getCharge()fawler.Rental#getCharge()Dæ
 fawler.Customerjava.lang.Object<
 statement()-fawler.Customer#statement()Ljava/lang/String;8
 	getName()+fawler.Customer#getName()Ljava/lang/String;I
