@@ -1,0 +1,7 @@
+organization=antonioofdz
+projectKey=antonioofdz_refactoringFawler
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6595
+dashboardUrl=https://sonarcloud.io/dashboard?id=antonioofdz_refactoringFawler
+ceTaskId=AXFV5QKa0MlYHzapm3wJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFV5QKa0MlYHzapm3wJ
