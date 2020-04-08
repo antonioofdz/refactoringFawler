@@ -1,0 +1,48 @@
+
+!fawler.Customer#getTotalCharge()D\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java2 2("4*Ì
+2\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java6 6(!ãà
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java6 6(/
+%3java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*"
+ 
+rentalsjava.util.Enumeration2nextElement()*
+3*½
+3\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java5	 5(ÑÎ
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java5	 5("
+%2boolean"(java.util.Enumeration#hasMoreElements()Z*"
+ 
+rentalsjava.util.Enumeration2hasMoreElements()*
+2
+1*‘
+4\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java3 3(¢
+Ÿ
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java4 4( 
+%0java.util.Vector"__id*!*
+fawler.Customer"
+
+_rentalsØÕ
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java4 4(+
+%1java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%0java.util.Vector2
+elements()¨
+¥
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java4 4(, 
+rentalsjava.util.Enumeration"__id*
+
+%1java.util.Enumeration*
+3*É
+1\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java9	 9("f
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java9 9(
+""B
+fawler.Customer

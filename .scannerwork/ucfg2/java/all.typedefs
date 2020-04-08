@@ -28,11 +28,14 @@ getTitle())fawler.Movie#getTitle()Ljava/lang/String;.
 getMovie()fawler.Rental#getMovie()LMovie;1
 getDaysRented()fawler.Rental#getDaysRented()I)
 getCharge()fawler.Rental#getCharge()DE
-getFrequentRenterPoints()(fawler.Rental#getFrequentRenterPoints()Iæ
+getFrequentRenterPoints()(fawler.Rental#getFrequentRenterPoints()I¶
 fawler.Customerjava.lang.Object<
 statement()-fawler.Customer#statement()Ljava/lang/String;8
-	getName()+fawler.Customer#getName()Ljava/lang/String;I
-<init>(Ljava/lang/String;)+fawler.Customer#<init>(Ljava/lang/String;)VÖ
+	getName()+fawler.Customer#getName()Ljava/lang/String;Q
+getTotalFrequentRenterPoints()/fawler.Customer#getTotalFrequentRenterPoints()II
+<init>(Ljava/lang/String;)+fawler.Customer#<init>(Ljava/lang/String;)VD
+htmlStatement()1fawler.Customer#htmlStatement()Ljava/lang/String;5
+getTotalCharge()!fawler.Customer#getTotalCharge()DÖ
 java.lang.Iterablejava.lang.Objectd
 &forEach(Ljava/util/function/Consumer;):java.lang.Iterable#forEach(Ljava/util/function/Consumer;)VH
 spliterator()7java.lang.Iterable#spliterator()Ljava/util/Spliterator;Œ

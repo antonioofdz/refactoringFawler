@@ -1,0 +1,163 @@
+
+1fawler.Customer#htmlStatement()Ljava/lang/String;\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java# #("4*Ñ
+2\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java' '(!„‡
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java' '(/
+%6java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*"
+ 
+rentalsjava.util.Enumeration2nextElement()µ
+≤
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java)1 )(Q
+%7".java.lang.String#valueOf([C)Ljava/lang/String;*"
+java.lang.String*
+""*
+3*Ω
+3\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java&	 &(—Œ
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java&	 &("
+%5boolean"(java.util.Enumeration#hasMoreElements()Z*"
+ 
+rentalsjava.util.Enumeration2hasMoreElements()*
+2
+1*È
+
+4\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java$ $( ¢
+ü
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java$ $( 
+%0java.util.Vector"__id*!*
+fawler.Customer"
+
+_rentalsÿ’
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java$ $(+
+%1java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%0java.util.Vector2
+elements()®
+•
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java$ $(, 
+rentalsjava.util.Enumeration"__id*
+
+%1java.util.Enumeration∆√
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java%+ %(4
+%2java.lang.String"+fawler.Customer#getName()Ljava/lang/String;*
+fawler.Customer2	getName()∑
+¥
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java% %(4
+%3java.lang.String"__concat*
+<H1>Rentals for <EM>*
+
+%2java.lang.String≤
+Ø
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java% %(H
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+</EM></H1><P>\nù
+ö
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java% %(I
+resultjava.lang.String"__id*
+
+%4java.lang.String*
+3*ó
+1\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java, ,(ß
+§
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java,/ ,(?
+%8double"!fawler.Customer#getTotalCharge()D*
+fawler.CustomerŒ
+À
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java,  ,(@
+%9java.lang.String"-java.lang.String#valueOf(D)Ljava/lang/String;*"
+java.lang.String*
+
+%8double≥
+∞
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java, ,(@
+%10java.lang.String"__concat*
+<P>You owe <EM>*
+
+%9java.lang.StringØ
+¨
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java, ,(O
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+
+</EM><P>\nΩ
+∫
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java, ,(O
+%12java.lang.String"__concat*
+
+resultjava.lang.String*
+
+%11java.lang.Stringû
+õ
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java, ,(O
+resultjava.lang.String"__id*
+
+%12java.lang.String≥
+∞
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java-> -(\
+
+%13int"/fawler.Customer#getTotalFrequentRenterPoints()I*
+fawler.CustomerÕ
+ 
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java-/ -(]
+%14java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*"
+java.lang.String*
+
+
+%13int√
+¿
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java- -(]
+%15java.lang.String"__concat*" 
+On this rental you earned <EM>*
+
+%14java.lang.Stringƒ
+¡
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java- .('
+%16java.lang.String"__concat*
+
+%15java.lang.String*#!
+</EM> frequent renter points<P>Ω
+∫
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java- .('
+%17java.lang.String"__concat*
+
+resultjava.lang.String*
+
+%16java.lang.Stringû
+õ
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java- .('
+resultjava.lang.String"__id*
+
+%17java.lang.String"|
+\
+RC:/Users/antonioofdzj/eclipse-workspace/refactoringFawler/src/fawler/Customer.java/ /(
+
+resultjava.lang.StringB
+fawler.Customer
